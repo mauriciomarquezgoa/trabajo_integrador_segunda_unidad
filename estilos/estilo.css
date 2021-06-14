@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cabecera{ 
+        width: 1300px;
+        height: 450px;
+        margin: auto;
+        position: absolute;
+        margin: auto;
+        left: 120px;
+    }
+
+#btn_menu{
+        font-weight: bold;
+        font-size: 18px;
+        background-color: transparent;
+        color: white;
+        border: none;
+        cursor: pointer;
+        position: relative;
+    }
+
+#textocabecera{ 
+        font-family: 'Oswald', sans-serif, cursive; font-size: 15px;
+        color: white;
+        margin: auto;
+        left: 140px;
+        position: relative;        
+    }
+
+#texto1{
+        font-family: 'Oswald', sans-serif, cursive;
+        font-size: 25px; 
+        color: black; 
+        position: relative; 
+        left: 620px;
+       }
+
+#iconos{
+        font-family: 'Oswald', sans-serif, cursive; font-size: 20px; text-align: center;
+        color: black;
+        width: 250px;
+        margin: auto;   
+        position: absolute;
+    }
+
+#iconos2{
+        font-family: 'Oswald', sans-serif, cursive; font-size: 20px;
+        color: black;
+        position: absolute;
+    }
+
+#ventas{background-color: #f5f5f5;
+        font-family: 'Oswald', sans-serif, cursive; font-size: 20px; text-align: center;
+        color: black;
+        width: 250px;
+        height: 400px;
+        margin: auto;   
+        position: absolute;
+    }
+
+.margen1{margin-top: 100px;}
+.margen2{margin-top: 250px;}
+.margen3{margin-top: 520px;}
+
+.superior{left: 550px;
+          padding: 10px;}
+
+.uno{left: 380px;}
+.dos{left: 640px;}
+.tres{left: 900px;}
+
+.uno_2{left: 10px;}
+.uno_2_1{left: 60px;}
+.dos_2{left: 90px;}
+.dos_2_1{left: 146px;}
+.tres_2{left: 170px;}
+.tres_2_1{left: 230px;}
+
+span{font-weight: bold;}
+.centrado{width: 90%; margin: auto; margin-top: 10px; color: black;}
+
+.text_centro1{margin-top: 40px;}
+.text_centro2{margin-top: 240px;}
+
+
+#btn_orange{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #df8817;
+    color: white;
+    border: none;
+    width: 95%;
+    height: 30px;
+    cursor: pointer;
+}
+
+#btn_green{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #71b11f;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-top: 420px;
+    cursor: pointer;
+    position: absolute;
+    left: 1000px;
+}
+
+#piepagina{ 
+    width: 1300px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    margin-top: 460px;
+    left: 120px;
+}
+
+#textopiepagina{
+    font-family: 'Oswald', sans-serif, cursive; font-size: 15px;
+    color: white;
+    margin: auto;
+    left: 140px;
+    position: relative;        
+}
+
+#btn_orange2{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #df8817;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 30px;
+    cursor: pointer;
+    left: 140px;
+    position: relative;
+}
+
+#btn_pie{
+    background-color: #333333;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 1280px;
+    left: 120px;
+    margin-top: 40px;
+    cursor: pointer;
+    padding: 10px;
+    position: absolute;
+}
